@@ -41,7 +41,6 @@
     "@babel/preset-env": "^7.6.3",
     "autoprefixer": "^10.4.7",
     "babel-loader": "^8.0.6",
-    "body-scroll-lock": "^4.0.0-beta.0",
     "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^11.0.0",
     "core-js": "^3.3.2",
@@ -60,6 +59,7 @@
     "webpack-dev-server": "^4.9.2",
     "webpack-merge": "^5.8.0"
   },
-  "dependencies": {  
+  "dependencies": { 
+    "body-scroll-lock": "^4.0.0-beta.0" 
   }
 }
